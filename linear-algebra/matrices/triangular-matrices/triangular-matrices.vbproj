@@ -1,0 +1,12 @@
+<Project ToolsVersion="15.0" Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>{D82A8E39-EE05-467C-9099-3BD90CF74927}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Numerics.NET.QuickStart.VisualBasic</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+	<PackageReference Include="Numerics.NET.Core" Version="9.1.3-*" />
+  </ItemGroup>
+</Project>
